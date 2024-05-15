@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="CadastroBD" default="default" basedir=".">
+<project name="Missao 3" default="default" basedir=".">
     <description>Builds, tests, and runs the project CadastroBD.</description>
     <import file="nbproject/build-impl.xml"/>
 
